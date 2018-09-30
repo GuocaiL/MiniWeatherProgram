@@ -15,6 +15,7 @@
 -->
 <resources>
     <string name="app_name">HelloEffects</string>
+    <!-- 
     <string name="none">None</string>
     <string name="autofix">Autofix</string>
     <string name="bw">Min/Max Color Intensity</string>
@@ -39,4 +40,5 @@
     <string name="temperature">Temperature</string>
     <string name="tint">Tint</string>
     <string name="vignette">Vignette</string>
+     -->
 </resources>
